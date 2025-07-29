@@ -1,4 +1,5 @@
-中文 | [English]](./README_EN.md)
+中文 | [English](./README_EN.md)
+
 
 # 👋 Hi，K1n！
 
