@@ -1,8 +1,27 @@
+中文 | [English]](./README_EN.md)
+
 # 👋 Hi，K1n！
 
 🎓 RWTH Aachen 计算机工程硕士在读  
 🎓 西安电子科技大学 电子信息工程本科
 
+---
+## 📫 联系方式
+
+- 📘 个人博客：[https://k1n.asia](https://k1n.asia)
+- 📧 邮箱：zhangzijiandavid@outlook.com
+
+---
+
+
+
+## 📌 更新的项目
+
+| 项目                                                                                                                   | 简介                                                                                                   | 技术栈   |
+| -------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ----- |
+| [My\_project\_mcu](https://github.com/Invincible-ZHANG/My_project_mcu)                                               | Code optimization based on my previous projects                                                      | C     |
+| [my\_apgd\_project](https://github.com/Invincible-ZHANG/my_apgd_project)                                             | Implementation of an Accelerated Projected Gradient Descent Solver for Multibody Dynamics Simulation | C++   |
+| [Technical-Interview-NOTE-Baguwen-Style](https://github.com/Invincible-ZHANG/Technical-Interview-NOTE-Baguwen-Style) | 个人Blog主页                                                                             | Shell |
 ---
 
 ## 🛠 技术栈
@@ -39,22 +58,8 @@
 
 [![Zijian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Invincible-ZHANG&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
----
 
 
-## 📫 联系方式
 
-- 📘 个人博客：[https://k1n.asia](https://k1n.asia)
-- 📧 邮箱：zhangzijiandavid@outlook.com
-
----
-
-## 📌 固定展示的项目
-
-| 项目                                                                                                                   | 简介                                                                                                   | 技术栈   |
-| -------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ----- |
-| [My\_project\_mcu](https://github.com/Invincible-ZHANG/My_project_mcu)                                               | Code optimization based on my previous projects                                                      | C     |
-| [my\_apgd\_project](https://github.com/Invincible-ZHANG/my_apgd_project)                                             | Implementation of an Accelerated Projected Gradient Descent Solver for Multibody Dynamics Simulation | C++   |
-| [Technical-Interview-NOTE-Baguwen-Style](https://github.com/Invincible-ZHANG/Technical-Interview-NOTE-Baguwen-Style) | 个人Blog主页                                                                             | Shell |
 
 
