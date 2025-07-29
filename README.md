@@ -42,12 +42,6 @@
 ---
 
 
-## ✨ 小彩蛋：一句废话生成器（动态内容）
-
-> [![](https://readme-jokes.vercel.app/api?hideBorder&bgColor=%230d1117&textColor=90caf9)](https://github.com/ABSphreak/readme-jokes)
-
----
-
 ## 📫 联系方式
 
 - 📘 个人博客：[https://k1n.asia](https://k1n.asia)
