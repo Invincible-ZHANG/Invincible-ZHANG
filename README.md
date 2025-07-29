@@ -1,11 +1,6 @@
 # 👋 Hi，我是张子健！
 
 🎓 RWTH Aachen 计算机工程硕士在读  
-🔬 多体动力学 / 嵌入式系统 / AI Infra  
-📘 正在撰写硕士论文：APGD in Nonsmooth Dynamics  
-🏁 F1 / 电竞 / 锻炼爱好者，虽然是菜狗，但菜我也玩  
-
-💡 信仰“长期主义”，相信代码如人，写得久才能写得稳。
 
 ---
 
@@ -45,11 +40,6 @@
 
 ---
 
-## 🐍 彩蛋：贪吃蛇提交动画
-
-![snake gif](https://github.com/Invincible-ZHANG/Invincible-ZHANG/blob/output/github-contribution-grid-snake.svg)
-
----
 
 ## ✨ 小彩蛋：一句废话生成器（动态内容）
 
@@ -61,20 +51,15 @@
 
 - 📘 个人博客：[https://k1n.asia](https://k1n.asia)
 - 📧 邮箱：zhangzijiandavid@outlook.com
-- 🧭 LinkedIn：_（有的话可以加）_
-- 🤖 微信小程序：开发中！
 
 ---
 
-## 🧩 正在开发 / 持续维护的项目
+## 📌 固定展示的项目
 
-| 项目 | 简介 | 技术栈 |
-|------|------|--------|
-| [APGD-Solver](https://github.com/Invincible-ZHANG/...) | 多体系统接触求解器 | C++, 数值优化, Chrono |
-| [Chrono Customizer](https://github.com/Invincible-ZHANG/...) | 二次开发 Chrono 接触模型 | C++, 物理仿真 |
-| [RedNote Spider](https://github.com/Invincible-ZHANG/...) | 小红书内容爬虫 | Python, Requests, Selenium |
+| 项目                                                                                                                   | 简介                                                                                                   | 技术栈   |
+| -------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ----- |
+| [My\_project\_mcu](https://github.com/Invincible-ZHANG/My_project_mcu)                                               | Code optimization based on my previous projects                                                      | C     |
+| [my\_apgd\_project](https://github.com/Invincible-ZHANG/my_apgd_project)                                             | Implementation of an Accelerated Projected Gradient Descent Solver for Multibody Dynamics Simulation | C++   |
+| [Technical-Interview-NOTE-Baguwen-Style](https://github.com/Invincible-ZHANG/Technical-Interview-NOTE-Baguwen-Style) | 个人主页                                                                             | Shell |
 
----
-
-## 📚 最近阅读的论文 & 技术关键词
 
