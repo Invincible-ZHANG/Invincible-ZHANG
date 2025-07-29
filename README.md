@@ -55,6 +55,6 @@
 | -------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ----- |
 | [My\_project\_mcu](https://github.com/Invincible-ZHANG/My_project_mcu)                                               | Code optimization based on my previous projects                                                      | C     |
 | [my\_apgd\_project](https://github.com/Invincible-ZHANG/my_apgd_project)                                             | Implementation of an Accelerated Projected Gradient Descent Solver for Multibody Dynamics Simulation | C++   |
-| [Technical-Interview-NOTE-Baguwen-Style](https://github.com/Invincible-ZHANG/Technical-Interview-NOTE-Baguwen-Style) | 个人主页                                                                             | Shell |
+| [Technical-Interview-NOTE-Baguwen-Style](https://github.com/Invincible-ZHANG/Technical-Interview-NOTE-Baguwen-Style) | 个人Blog主页                                                                             | Shell |
 
 
