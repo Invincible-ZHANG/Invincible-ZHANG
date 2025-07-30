@@ -1,4 +1,3 @@
-中文 | [English](./README_EN.md)
 
 
 # 👋 Hi，K1n！
@@ -49,7 +48,8 @@
 
 ### 🔥 连续提交图（Streak Stats）
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Invincible-ZHANG&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Invincible-ZHANG&theme=tokyonight&hide_border=true)
+
 
 ### 📊 使用语言排行（Top Languages）
 
