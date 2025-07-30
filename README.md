@@ -49,7 +49,7 @@
 
 ### 🔥 连续提交图（Streak Stats）
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Invincible-ZHANG&theme=tokyonight&hide_border=true)](https://github.com/denvercoder1/github-readme-streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Invincible-ZHANG&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 ### 📊 使用语言排行（Top Languages）
 
