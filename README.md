@@ -8,7 +8,7 @@
 ---
 ## 📫 联系方式
 
-- 📘 个人博客：[https://blog.k1n.asia](https:///blog.k1n.asia)
+- 📘 个人博客：[https://k1n.asia](https:///k1n.asia)
 - 📧 邮箱：zhangzijiandavid@outlook.com
 
 ---
